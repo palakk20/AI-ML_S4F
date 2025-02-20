@@ -1,4 +1,3 @@
-# AI-ML_S4F
 📌 BCA Internship - 6th Semester
 Skills4Future Internship on Green Skills & AI
 🌱 AI & ML Learning Journey
@@ -27,3 +26,7 @@ Exploring AI’s potential in climate change solutions & resource optimization
 ✅ Gained GitHub proficiency (February 12–20):
 
 Repository management, version control, and collaboration workflows.
+📂 Repository Structure
+📁 Supervised Learning – Jupyter Notebooks & scripts on regression/classification.
+📁 Unsupervised Learning – Clustering & dimensionality reduction experiments.
+📁 GitHub Learning – Notes, practice exercises, and version control experiments.
