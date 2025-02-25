@@ -2,7 +2,7 @@
 
 Skills4Future Internship on Green Skills & AI
 
-🌱 AI & ML Learning Journey
+🌱 *AI & ML Learning Journey*
 
 This repository is a comprehensive record of my hands-on learning experience in Artificial Intelligence (AI) and Machine Learning (ML) during the Green Skills & AI internship.
 
@@ -38,7 +38,7 @@ Understanding sustainable technology trends
 
 Exploring AI’s potential in climate change solutions & resource optimization
 
-🚀 Hands-on Learning & Practical Applications
+🚀 *Hands-on Learning & Practical Applications*
 
 ✅ Applied AI/ML concepts through quizzes, exercises, and coding challenges.
 
@@ -49,10 +49,3 @@ Exploring AI’s potential in climate change solutions & resource optimization
 
 Repository management, version control, and collaboration workflows.
 
-📂 Repository Structure
-
-📁 Supervised Learning – Jupyter Notebooks & scripts on regression/classification.
-
-📁 Unsupervised Learning – Clustering & dimensionality reduction experiments.
-
-📁 GitHub Learning – Notes, practice exercises, and version control experiments.
